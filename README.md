@@ -28,7 +28,7 @@ Instead of memorization, the book focuses on:
 - Data & Reporting professionals working with Workday
 
 📌 **Available editions:**
-- 🇺🇸 English  [https://www.amazon.com/dp/B0GDXNTV4K]
+- 🇺🇸 English  [https://amzn.to/4jMcvN3]
 - 🇪🇸 Spanish  [https://www.amazon.es/dp/B0GDYKJKX1]
 - 🇧🇷 Portuguese [https://www.amazon.com.br/dp/B0GDYNJWR5]
 
